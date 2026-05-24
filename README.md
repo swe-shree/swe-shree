@@ -1,69 +1,116 @@
+# Hi there, I'm Swethashree 👋
 
-
-<!--
-**swe-shree/swe-shree** i# Hi 👋, I'm Swethashree
-
-🚀 Full Stack Developer focused on building scalable frontend and backend systems.
-
-💡 AI/ML Enthusiast passionate about intelligent systems, modern architectures, and developer tools.
+🎓 Full Stack Developer & AI/ML Enthusiast  
+💻 Frontend, Backend & Reusable System Architect  
+🚀 Passionate about scalable applications, developer tools, and modern web technologies  
 
 ---
 
-## 💻 Tech Stack
-- React
-- Next.js
-- TypeScript
-- FastAPI
-- Python
-- Tailwind CSS
-- TanStack Table
-- PostgreSQL
-- AI/ML Fundamentals
+# 🚀 About Me
+
+🎯 Building reusable frontend and backend systems using React, Next.js, FastAPI, and TypeScript  
+
+💡 Interested in Full Stack Development, AI/ML, System Design, and UI Architecture  
+
+🔧 Currently working on reusable table infrastructure and modern dashboard applications  
+
+🌱 Learning advanced backend architecture, scalable systems, and AI-powered solutions  
+
+🤝 Open to collaboration on web development, AI/ML, and developer tooling projects  
 
 ---
 
-## ⚡ Current Projects
+# 💼 Current Projects
 
-### 🔹 Prospero Table UI
-Reusable production-ready table UI package with:
+## 🔹 Prospero Table UI
+Reusable production-ready table UI package featuring:
 - Sorting
 - Pagination
 - Column visibility
 - Row selection
-- Configurable UI drawer
+- Configurable settings drawer
 
-### 🔹 Tableflow
-Reusable backend table processing system for:
+## 🔹 Tableflow
+Backend table processing infrastructure for:
 - Search
 - Sorting
 - Filtering
 - Pagination
 
+## 🔹 Bank Statement Extractor
+PDF-to-Excel extraction system using:
+- FastAPI
+- Python
+- Pandas
+- Regex
+- PDF processing
+
 ---
 
-## 🛠️ Building
-- Reusable UI systems
-- Backend architectures
-- Developer tools
-- Modern dashboard applications
-- AI-powered solutions
+# 🛠️ Technical Skills
+
+## Languages
+- Python
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+
+## Frontend
+- React
+- Next.js
+- Tailwind CSS
+- TanStack Table
+- TanStack Query
+
+## Backend
+- FastAPI
+- PostgreSQL
+- REST APIs
+- SQLAlchemy
+
+## Tools & Technologies
+- Git & GitHub
+- VS Code
+- Vite
+- npm / pnpm
+- API Integration
+
+## AI/ML
+- Machine Learning Fundamentals
+- NLP Basics
+- AI Workflow Concepts
 
 ---
 
-## 📈 GitHub Stats
+# 📌 Projects
+
+| Project | Description |
+|---------|-------------|
+| Prospero Table UI | Reusable React table UI package with advanced table features |
+| Tableflow | Backend infrastructure for scalable table processing |
+| Bank Extractor | PDF bank statement extraction and Excel generation system |
+| Dashboard Systems | Modern admin dashboards with reusable architecture |
+
+---
+
+# 🌱 Currently Learning
+- Advanced System Design
+- Production-grade architectures
+- AI/ML Engineering
+- Package ecosystem development
+
+---
+
+# 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swe-shree&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swe-shree&layout=compact&theme=tokyonight)
 
 ---
+# 📫 Connect With Me
 
-## 🌱 Currently Learning
-- Advanced System Design
-- Production-grade architectures
-- Package ecosystem development
-- AI/ML Engineering
-
----
-
-
+- GitHub: [swe-shree](https://github.com/swe-shree)
+- LinkedIn: [Swethashree S](https://www.linkedin.com/in/swethashree-s-410b0b243)
+- Email: sswethashree22@gmail.com
