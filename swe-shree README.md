@@ -91,6 +91,7 @@ PDF-to-Excel extraction system using:
 | Tableflow | Backend infrastructure for scalable table processing |
 | Bank Extractor | PDF bank statement extraction and Excel generation system |
 | Dashboard Systems | Modern admin dashboards with reusable architecture |
+| ROAD-POTHOLES | Real-time pothole detection framework using YOLOv8, OpenCV, and edge-aware segmentation techniques |
 
 ---
 
