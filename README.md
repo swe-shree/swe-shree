@@ -1,130 +1,253 @@
-<h1 align="center">Hi 👋, I'm Swethashree</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | System Builder</h3>
+<div align="center">
+
+# 👋 Hi, I'm Swethashree
+
+### Full Stack Developer | AI/ML Enthusiast | System Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=4F46E5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+FastAPI;Building+Reusable+Systems;AI%2FML+Enthusiast;Open+Source+Contributor" />
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="35%">
+
+## 👩‍💻 About Me
+
+🎓 Full Stack Developer
+
+💼 Building scalable web applications and reusable developer tools
+
+⚡ Passionate about:
+- System Design
+- Backend Architecture
+- AI/ML Solutions
+- Developer Experience
+
+🌱 Currently Learning:
+- Distributed Systems
+- Cloud Infrastructure
+- AI Engineering
+- Kubernetes
+
+🤝 Open to:
+- Open Source Collaboration
+- Full Stack Projects
+- AI/ML Projects
+
+</td>
+
+<td width="65%">
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Next.js+%7C+FastAPI;Building+Reusable+Systems" />
+<img src="https://github-readme-stats.vercel.app/api?username=swe-shree&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Current Focus
+
+| Area | Working On |
+|--------|------------|
+| Frontend | Reusable React Component Libraries |
+| Backend | FastAPI Services |
+| Architecture | Scalable System Design |
+| AI/ML | Intelligent Document Processing |
+| Open Source | Developer Tooling |
+
+---
+
+# 🛠 Technology Stack
+
+## Frontend
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swe-shree&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,vite" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-🎓 Full Stack Developer & AI/ML Enthusiast  
-
-💻 Building reusable frontend and backend systems using **React, Next.js, FastAPI, TypeScript, and Python**
-
-🔧 Currently working on **reusable table infrastructure** and **modern dashboard applications**
-
-🌱 Learning **advanced system design, scalable backend architecture, and AI-powered solutions**
-
-🤝 Open to collaboration on **web development, AI/ML, and developer tooling projects**
-
----
-
-## 🛠 Tech Stack
+## Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,python,fastapi,postgresql,tailwind,html,css,git,github,vscode,vite" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,nodejs" />
 </p>
 
 ---
 
-## 💼 Current Projects
+## Tools & Platforms
 
-### 🔹 Prospero Table UI
-Reusable production-ready table UI package with:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
+
+---
+
+## Currently Exploring
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,tensorflow,pytorch" />
+</p>
+
+---
+
+# 📦 Featured Projects
+
+## 🔹 Prospero Table UI
+
+Enterprise-grade reusable React table component library.
+
+### Features
+
+- Column Pinning
 - Sorting
 - Pagination
-- Column visibility
-- Row selection
-- Configurable settings drawer
+- Row Selection
+- Column Visibility
+- Configurable Settings Drawer
 
-### 🔹 Tableflow
-Backend table processing infrastructure for:
+**Tech Stack**
+
+`React` `TypeScript` `TanStack Table` `Tailwind CSS`
+
+---
+
+## 🔹 Tableflow
+
+Backend infrastructure for handling large datasets efficiently.
+
+### Features
+
 - Search
 - Sorting
 - Filtering
 - Pagination
+- Aggregation
 
-### 🔹 Bank Statement Extractor
-PDF-to-Excel extraction system using:
-- FastAPI
-- Python
-- Pandas
-- Regex
-- PDF processing
+**Tech Stack**
+
+`Python` `FastAPI`
 
 ---
 
-## 📌 Featured Projects
+## 🔹 Bank Statement Extractor
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| Prospero Table UI | React, TypeScript, TanStack Table | Reusable React table UI package with advanced features |
-| Tableflow | Python, FastAPI | Backend infrastructure for scalable table processing |
-| Bank Extractor | Python, Pandas, FastAPI | PDF bank statement extraction and Excel generation |
-| Dashboard Systems | React, Next.js, Tailwind CSS | Modern admin dashboards with reusable architecture |
-| ROAD-POTHOLES | YOLOv8, OpenCV, Python | Real-time pothole detection framework |
+Automated PDF-to-Excel document processing platform.
 
----
+### Features
 
-## 📊 GitHub Statistics
+- Transaction Extraction
+- Data Cleaning
+- Excel Generation
+- Structured Reporting
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swe-shree&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swe-shree&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Tech Stack**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swe-shree&theme=tokyonight&hide_border=true" />
-</p>
+`Python` `Pandas` `FastAPI`
 
 ---
 
-## 📈 Contribution Graph
+## 🔹 Road Pothole Detection
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swe-shree&theme=tokyo-night&hide_border=true" />
-</p>
+Real-time pothole detection system.
 
----
+### Features
 
-## 🏆 GitHub Trophies
+- Object Detection
+- Road Monitoring
+- Computer Vision Pipeline
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swe-shree&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+**Tech Stack**
 
----
-
-## 🌱 Currently Learning
-
-- Advanced System Design
-- Production-grade Architecture
-- AI/ML Engineering
-- Package Ecosystem Development
-- Backend Scalability
+`YOLOv8` `OpenCV` `Python`
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/swe-shree">
-    <img src="https://img.shields.io/badge/GitHub-swe--shree-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/swethashree-s-410b0b243">
-    <img src="https://img.shields.io/badge/LinkedIn-Swethashree%20S-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:sswethashree22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sswethashree22%40gmail.com-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swe-shree&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swe-shree&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-<h3 align="center">✨ Building scalable systems, reusable tools, and intelligent applications ✨</h3>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swe-shree&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swe-shree&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Publish reusable open-source packages
+
+✅ Contribute to large-scale projects
+
+✅ Master System Design
+
+✅ Build AI-powered developer tools
+
+✅ Learn Cloud & Kubernetes
+
+---
+
+# 🏆 Highlights
+
+- Full Stack Development
+- React & Next.js Applications
+- FastAPI Backend Systems
+- AI/ML Projects
+- Reusable UI Libraries
+- Open Source Contributions
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/swe-shree">
+<img src="https://img.shields.io/badge/GitHub-swe--shree-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/swethashree-s-410b0b243">
+<img src="https://img.shields.io/badge/LinkedIn-Swethashree_S-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sswethashree22@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building scalable systems, reusable tools, and intelligent applications ✨
+
+</div>
